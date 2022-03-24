@@ -13,7 +13,7 @@
         "laravel/tinker": "^2.7",
         "laravel/ui": "^3.4",
         "maatwebsite/excel": "^3.1",
-        "phpoffice/phpspreadsheet": "^1.22",
+        "phpoffice/phpspreadsheet": "^1.22"
     },
     "require-dev": {
         "facade/ignition": "^2.5",
